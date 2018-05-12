@@ -1,0 +1,37 @@
+_repo: Door-Centraal-Oceani-De-Aarde-en-haar-Volken-1908_17305
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Myrica, Pierre de
+    aliases:
+    - La Bruyere, Rene
+    - La Bruyère, René
+    - Bruyère, René La
+    - Myrica, P. de (Pierre)
+    birthdate: 1875
+    deathdate: 1951
+    gutenberg_agent_id: '26111'
+    url: http://www.gutenberg.org/2009/agents/26111
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2005-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17305'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wallis and Futuna Islands -- Social life and customs'
+- !lcsh 'Fiji -- Social life and customs'
+- !lcsh 'Fiji -- Description and travel'
+- !lcc 'DU'
+- !lcsh 'Wallis and Futuna Islands -- Description and travel'
+title: 'Door Centraal-Oceanië
+
+  De Aarde en haar Volken, 1908'
+url: http://www.gutenberg.org/ebooks/17305

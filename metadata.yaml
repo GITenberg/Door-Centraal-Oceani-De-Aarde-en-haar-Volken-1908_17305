@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '26111'
     url: http://www.gutenberg.org/2009/agents/26111
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17305#Door-Centraal-Oceani-De-Aarde-en-haar-Volken-1908
 gutenberg_bookshelf: De Aarde en haar Volken
 gutenberg_issued: '2005-12-14'
 gutenberg_type: Text
